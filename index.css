@@ -1,0 +1,15 @@
+body{
+  margin:0 auto;
+  margin-top: 50px;
+  width: 100%;
+  position: center;
+  text-align: center;
+  
+  
+}
+
+.blackWhite{
+  position: fixed;
+  top: 20px;
+  right:10px;
+}
